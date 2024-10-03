@@ -1,12 +1,12 @@
 let player={
   name:'kareem',
-  chips:190
+  chips:200
 
 }
 
 
 let cards = []
-let sum = 0;
+let sum=0;
 let hasBlackJack = false
 let isAlive = false
 let message = ""
